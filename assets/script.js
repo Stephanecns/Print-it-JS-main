@@ -60,7 +60,7 @@ arrow2.addEventListener('click', function () {
 	taglineElement.innerHTML = slides[nextIndex].tagLine;
 });*/
 
-
+//Index correspond à l'emplacement de l'élément dans le tableau
 let index = 1; 
 //Je sélectionne et je stocke
 //arrow_left + arrow_right
